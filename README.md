@@ -5,7 +5,7 @@ taken from https://gitlab.com/Spindel/rust-cross-example
 ## build
 
 ```
-docker build -t rust-cross-compiler-arm .
+docker build -t stuartnelson3rust-cross-compiler-arm .
 ```
 
 ## example usage
